@@ -1,0 +1,6 @@
+{
+  "name": "LJK Scan Pro",
+  "description": "Aplikasi scanner LJK otomatis berbasis kamera ponsel dengan rekapitulasi nilai Google Sheets, analisis butir soal, serta manajemen peran Admin dan Guru.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
